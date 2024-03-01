@@ -10,9 +10,9 @@ This repository serves to document and showcase my solutions for various program
 
 ## Directory
 
-| Challenge                                     | Difficulty         |
-|-----------------------------------------------|----------------------------|
-| ? | <a href="">Easy</a>|
+| Challenge          | Resource           | Difficulty         |
+|--------------------|--------------------|--------------------|
+| Sleep In | <a href="https://codingbat.com/python">CodingBat</a> (Warmup-1)|Easy|
 
 
 ## Tools Used
