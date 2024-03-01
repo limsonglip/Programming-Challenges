@@ -10,14 +10,15 @@ This repository serves to document and showcase my solutions for various program
 
 ## Directory
 
-| Challenge          | Resource           | Difficulty         |
-|--------------------|--------------------|--------------------|
-|<a href="Sleep In/README.md">Sleep In</a>|<a href="https://codingbat.com/python">CodingBat</a> (Warmup-1)|Easy|
-|<a href="Monkey Trouble/README.md">Monkey Trouble</a>|<a href="https://codingbat.com/python">CodingBat</a> (Warmup-1)|Easy|
-|<a href="Sum Double/README.md">Sum Double</a>|<a href="https://codingbat.com/python">CodingBat</a> (Warmup-1)|Easy|
-|<a href="Difference 21/README.md">Difference 21</a>|<a href="https://codingbat.com/python">CodingBat</a> (Warmup-1)|Easy|
-|<a href="Parrot Trouble/README.md">Parrot Trouble</a>|<a href="https://codingbat.com/python">CodingBat</a> (Warmup-1)|Easy|
-|<a href="Makes 10/README.md">Makes 10</a>|<a href="https://codingbat.com/python">CodingBat</a> (Warmup-1)|Easy|
+| Challenge          | Resource           | Type               | Difficulty         |
+|--------------------|--------------------|--------------------|--------------------|
+|<a href="Sleep In/README.md">Sleep In</a>|<a href="https://codingbat.com/python">CodingBat</a>|Warmup|Easy|
+|<a href="Monkey Trouble/README.md">Monkey Trouble</a>|<a href="https://codingbat.com/python">CodingBat</a>|Warmup|Easy|
+|<a href="Sum Double/README.md">Sum Double</a>|<a href="https://codingbat.com/python">CodingBat</a>|Warmup|Easy|
+|<a href="Difference 21/README.md">Difference 21</a>|<a href="https://codingbat.com/python">CodingBat</a>|Warmup|Easy|
+|<a href="Parrot Trouble/README.md">Parrot Trouble</a>|<a href="https://codingbat.com/python">CodingBat</a>|Warmup|Easy|
+|<a href="Makes 10/README.md">Makes 10</a>|<a href="https://codingbat.com/python">CodingBat</a>|Warmup|Easy|
+|<a href="Cigar Party/README.md">Cigar Party</a>|<a href="https://codingbat.com/python">CodingBat</a>|Logic|Easy|
 
 ## Tools Used
 
