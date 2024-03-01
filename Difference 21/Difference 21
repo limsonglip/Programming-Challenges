@@ -1,0 +1,10 @@
+# Define a function that returns the absolute difference between n and 21, except if n is more than 21, return double the absolute difference
+def diff21(n):
+
+  # Since I am looking for the absolute value, I have to subtract the smaller number (n) from the larger number (21)
+  if n <= 21:
+      return (21 - n)
+
+  # Else when n is more than 21, not only do I have to subtract 21 from n, I will also have to double the difference
+  else:
+      return ((n - 21)*2)
