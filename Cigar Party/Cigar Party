@@ -1,0 +1,11 @@
+# Defines a function which checks if cigar party is a success.
+
+def cigar_party(cigars, is_weekend):
+
+  # If the number of cigars is between 40 and 60 (inclusive), then cigar party is considered a success and returns True. Unless it is the weekend, then there is no upper limit on the number of cigars.
+  if (cigars >= 40 and is_weekend) or (60 >= cigars >= 40):
+      return True
+  
+  # Else returns False
+  else:
+      return False
