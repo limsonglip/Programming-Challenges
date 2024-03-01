@@ -1,0 +1,7 @@
+# Define a function that returns the difference between the largest and smallest values in an array
+def big_diff(nums):
+
+  # Find the difference between the largest and smallest values
+  diff = max(nums) - min(nums)
+
+  return diff
