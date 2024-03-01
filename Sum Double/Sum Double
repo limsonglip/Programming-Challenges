@@ -1,0 +1,11 @@
+# Define a function that sums up 2 integers, unless it is 2 same integers, then return double their sum
+
+def sum_double(a, b):
+
+    # If the 2 integers are the same, then their sum is doubled which is equivalent to 4 times of 1 of the integers
+    if a == b:
+        return (a*4)
+    
+    # Else, sum up the 2 integers
+    else:
+        return (a + b)
