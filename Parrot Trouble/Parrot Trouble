@@ -1,0 +1,10 @@
+# Define a function that checks if I am in trouble. Returns True if parrot is talking and the hour is before 7 or after 20, otherwise return False.
+def parrot_trouble(talking, hour):
+
+  # If parrot is talking and the time is not between 07:00 and 20:00, return True
+  if talking and not 7 <= hour <= 20:
+      return True
+
+  # Else, return False
+  else:
+      return False
