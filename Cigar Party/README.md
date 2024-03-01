@@ -7,6 +7,6 @@ Unless it is the weekend, in which case there is no upper bound on the number of
 Return True if the party with the given values is successful, or False otherwise.
 
 The algorithm should output these results:
-cigar_party(30, False) → False
-cigar_party(50, False) → True
-cigar_party(70, True) → True
+- cigar_party(30, False) → False
+- cigar_party(50, False) → True
+- cigar_party(70, True) → True
