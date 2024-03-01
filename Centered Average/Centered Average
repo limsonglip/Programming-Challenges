@@ -1,0 +1,22 @@
+# Define a function that returns the centered average of an array of integers
+def centered_average(nums):
+
+  # Remove largest integer from array
+  nums.remove(max(nums))
+
+  # Remove smallest integer from array
+  nums.remove(min(nums))
+
+  # Initialize total_sum of all remaining integers to 0
+  total_sum = 0
+
+  # Initial int_count (number of remaining integers) to 0
+  int_count = 0
+
+  # Loop through remaining array to get total_sum and int_count
+  for n in nums:
+      total_sum = total_sum + n
+      int_count = int_count + 1
+
+  # Return the centered average
+  return(total // count)
