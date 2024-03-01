@@ -1,0 +1,14 @@
+# Define a function that returns the number of integers in any given array.
+def count_evens(nums):
+
+  # Initialise the count
+  count = 0
+
+  # Loops through the array
+  for n in nums:
+
+      # Checks if n is an even number, if yes increase count by 1
+      if n % 2 == 0:
+          count = count + 1
+  
+  return count
