@@ -1,5 +1,10 @@
+# Define a function that returns True if 1 of 2 integers is 10 or if their sum is 10
 def makes10(a, b):
+
+    # Conditional that checks if 1 of the 2 integers is 10 or if their sum is 10. Returns True if one of the conditions is met.
     if a == 10 or b == 10 or a + b == 10:
         return True
+
+    # Else returns False
     else:
         return False
