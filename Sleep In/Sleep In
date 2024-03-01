@@ -1,0 +1,8 @@
+# Define a function to determine whether or not we sleep in
+def sleep_in (weekday, vacation):
+  # If it's not a weekday or if we are on vacation, function returns True  
+  if not weekday or vacation:
+      return True
+  # Else, function returns False  
+  else:
+      return False
