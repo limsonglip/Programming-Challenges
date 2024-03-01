@@ -1,0 +1,10 @@
+# Write a function to determine if I am in trouble
+def monkey_trouble(a_smile, b_smile):
+
+    # If Monkey A and Monkey B both smile or both don't smile, we are in trouble and return True
+    if a_smile == b_smile:
+        return True
+    
+    # Else, return False
+    else:
+        return False
