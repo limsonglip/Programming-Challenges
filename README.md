@@ -20,6 +20,7 @@ This repository serves to document and showcase my solutions for various program
 |<a href="Makes 10/README.md">Makes 10</a>|<a href="https://codingbat.com/python">CodingBat</a>|Warmup|Easy|
 |<a href="Cigar Party/README.md">Cigar Party</a>|<a href="https://codingbat.com/python">CodingBat</a>|Logic|Easy|
 |<a href="Count Evens/README.md">Count Evens</a>|<a href="https://codingbat.com/python">CodingBat</a>|List|Medium|
+|<a href="Biggest Difference/README.md">Biggest Difference</a>|<a href="https://codingbat.com/python">CodingBat</a>|List|Medium|
 
 ## Tools Used
 
