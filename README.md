@@ -12,7 +12,7 @@ This repository serves to document and showcase my solutions for various program
 
 | Challenge          | Resource           | Difficulty         |
 |--------------------|--------------------|--------------------|
-| Sleep In | <a href="https://codingbat.com/python">CodingBat</a> (Warmup-1)|Easy|
+| <a href="Sleep In/README.md">Sleep In</a> | <a href="https://codingbat.com/python">CodingBat</a> (Warmup-1)|Easy|
 
 
 ## Tools Used
