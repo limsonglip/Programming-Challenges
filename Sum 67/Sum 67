@@ -21,5 +21,5 @@ def sum67(nums):
       # Add n to sum if 6 has not been encountered
       elif encountered_6 != True:
           sum += n
-    
-return sum
+  
+  return sum
