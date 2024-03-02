@@ -1,0 +1,25 @@
+# Define a function that sums up numbers in an array, ignoring numbers betwen a 6 and a 7
+def sum67(nums):
+
+  # Initialize sum to zero
+  sum = 0
+
+  # Initialise whether 6 has been encountered to False
+  encountered_6 = False
+
+  # Loop through nums to check for existence of 6
+  for n in nums:
+
+      # If there is a 6, set flag to True
+      if n == 6:
+          encountered_6 = True
+
+      # Else if flag is True and 7 is encountered, reset flag to False
+      elif encountered_6 == True and n == 7:
+          encountered_6 = False
+
+      # Add n to sum if 6 has not been encountered
+      elif encountered_6 != True:
+          sum += n
+    
+return sum
