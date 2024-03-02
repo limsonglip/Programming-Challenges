@@ -1,0 +1,26 @@
+# Define a function that checks if an array has 2 consecutive number 2s
+def has22(nums):
+
+  # Initialise flag to False
+  has_2 = False
+
+  # Loop through array
+  for n in nums:
+
+    # If flag is True and it encounters a consecutive number 2, returns True
+      if has_2 == True and n == 2:
+        return True
+
+    # If flag is False and it encounters a first number 2, set flag to True
+      elif has_2 == False and n == 2:
+        has_2 = True
+
+    # If flag is False and it encounters any other number other than 2, set flag to False
+      elif has_2 == False and n != 2:
+        has_2 = False
+
+    # If flag is True and it encounter any other number other than 2, set flag to False
+      elif has_2 == True and n != 2:
+        has_2 = False
+
+  return False
