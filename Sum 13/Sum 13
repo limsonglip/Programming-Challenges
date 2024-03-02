@@ -1,0 +1,22 @@
+# Return the sum of the numbers in an array, skipping number 13 and any number tha follows it immediately
+def sum13(nums):
+
+  # Initialise sum to zero
+  sum = 0
+
+  # Initialialise previous number 13 flag to False
+  prev_is_13 = False
+
+  # Loop through the current array
+  for n in nums:
+
+      # If current number is 13, set flag to True and skip adding to sum
+      if n == 13:
+          prev_is_13 = True
+
+        
+      elif prev_is_13 == True:
+            prev_is_13 = False
+      else:
+            sum = sum + n
+    return sum
