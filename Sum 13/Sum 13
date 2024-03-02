@@ -19,4 +19,5 @@ def sum13(nums):
             prev_is_13 = False
       else:
             sum = sum + n
+
     return sum
