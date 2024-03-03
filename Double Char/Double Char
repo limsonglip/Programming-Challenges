@@ -1,0 +1,13 @@
+# Define a function that returns a string that has two chars for every char in the original string
+def double_char(str):
+
+  # Initialise double_str 
+  double_str = ""
+
+  # Loop through original string  
+  for i in range(len(str)):
+      
+      # Takes in char from original string and doubles it
+      double_str = double_str + str[i] + str[i]
+  
+  return double_str
