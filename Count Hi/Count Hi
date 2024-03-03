@@ -1,0 +1,24 @@
+# Defines a function that returns the number of times "hi" appears in a string
+def count_hi(str):
+  
+  # Initialise have_h and hi_count
+  have_h = False
+  hi_count = 0
+  
+  # Loop through the string
+  for i in range(len(str)):
+      
+      # When it finds "h", it sets have_h flag to True
+      if str[i] == "h":
+          have_h = True
+
+      # When it finds an "i" that follows a "h", it adds 1 to hi_count and resets have_h flag to False
+      elif have_h == True and str[i] == "i":
+          hi_count = hi_count + 1
+          have_h = False
+
+      # When it finds any other char that follows a "h", it resets have_h flag to False
+      elif have_h == True and str[i] != "i":
+          have_h = False
+  
+    return hi_count
