@@ -25,7 +25,8 @@ This repository serves to document and showcase my solutions for various program
 |<a href="Sum 13/README.md">Sum 13</a>|<a href="https://codingbat.com/python">CodingBat</a>|List|Medium|
 |<a href="Sum 67/README.md">Sum 67</a>|<a href="https://codingbat.com/python">CodingBat</a>|List|Medium|
 |<a href="Has 2 2/README.md">Has 2 2</a>|<a href="https://codingbat.com/python">CodingBat</a>|List|Medium|
-|<a href="Double Char/README.md">Double Char</a>|<a href="https://codingbat.com/python">CodingBat</a>|List|Medium|
+|<a href="Double Char/README.md">Double Char</a>|<a href="https://codingbat.com/python">CodingBat</a>|String|Medium|
+|<a href="Count Hi/README.md">Count Hi</a>|<a href="https://codingbat.com/python">CodingBat</a>|String|Medium|
 
 ## Tools Used
 
