@@ -34,6 +34,7 @@ This repository serves to document and showcase my solutions for various program
 |<a href="No Teen Sum">No Teen Sum</a>|<a href="https://codingbat.com/python">CodingBat</a>|Logic|Medium|
 |<a href="Round Sum">Round Sum</a>|<a href="https://codingbat.com/python">CodingBat</a>|Logic|Medium|
 |<a href="Close Far">Close Far</a>|<a href="https://codingbat.com/python">CodingBat</a>|Logic|Medium|
+|<a href="Make Chocolate">Make Chocolate</a>|<a href="https://codingbat.com/python">CodingBat</a>|Logic|Medium|
 
 ## Tools Used
 
