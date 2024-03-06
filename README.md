@@ -29,6 +29,7 @@ This repository serves to document and showcase my solutions for various program
 |<a href="Count Hi/README.md">Count Hi</a>|<a href="https://codingbat.com/python">CodingBat</a>|String|Medium|
 |<a href="Cat Dog/README.md">Cat Dog</a>|<a href="https://codingbat.com/python">CodingBat</a>|String|Medium|
 |<a href="Make Bricks/README.md">Make Bricks</a>|<a href="https://codingbat.com/python">CodingBat</a>|Logic|Medium|
+|<a href="Lone Sum/README.md">Lone Sum</a>|<a href="https://codingbat.com/python">CodingBat</a>|Logic|Medium|
 
 ## Tools Used
 
