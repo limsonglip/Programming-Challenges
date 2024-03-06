@@ -1,0 +1,25 @@
+# Define function that returns the number of small bags of chocolate (1kg) required to achieve the goal(in kg), assuming big bags of chocolate (5kg) are always used first
+# Return -1 if not possible
+def make_chocolate(small, big, goal):
+
+    # If goal is more than weight of big bags of chocolate available
+    if goal >= big*5:
+
+        # Return number of small bags of chocolate required, if we have enough small bags of chocolate available
+        if (goal - big*5) <= small:
+            return goal - big*5
+
+        # Return -1, if we do not have enough small bags of chocolate available
+        else:
+            return -1
+
+    # If the weight of big bags of chocolate available is more than the goal
+    elif goal <= big*5:
+
+        # Return number of small bags of chocolate required, if we have enough small bags of chocolate available
+        if small >= goal % 5:
+            return goal % 5
+        
+        # Return -1, if we do not have enough small bags of chocolate available
+        else:
+            return -1
