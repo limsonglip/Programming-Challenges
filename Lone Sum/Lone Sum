@@ -1,0 +1,22 @@
+# Define a function that calculates the sum of a, b and c, unless there are inputs of equal value, in which case those inputs shouldn't be included in the sum
+def lone_sum(a, b, c):
+  
+  # Check if all 3 values are equal, if so return 0
+  if a == b and b == c:
+    return 0
+  
+  # Check if a == b, if so return c only
+  if a == b:
+    return c
+  
+  # Check if b == c, if so return a only
+  if b == c:
+    return a
+
+  # Check if a == c, if so return b only    
+  if a == c:
+    return b
+    
+  # Return sum of all 3 inputs in all other scenarios
+  else:
+    return a + b + c
