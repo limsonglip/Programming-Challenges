@@ -1,0 +1,25 @@
+# Define helper to determine if num is close to a (within 1)
+def close(a, num):
+
+    # Return True if difference is 1 or less
+    if abs(a - num) <= 1:
+        return True
+
+    # Else Return False
+    else:
+        return False
+
+# Define function that returns True if a is close to either b or c, and the 3rd input is far from both the 2 inputs that are close (2 or more)
+def close_far(a, b, c):
+    
+    # Return True if b is close to a and c is far from both a and b
+    if close(a, b) == True and abs(a - c) >= 2 and abs(b - c) >= 2:
+        return True
+
+    # Return True if c is close to a and b is far from both a and c
+    if close(a, c) == True and abs(a - b) >= 2 and abs(b - c) >= 2:
+        return True
+
+    # Return False otherwise
+    else:
+        return False
