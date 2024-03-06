@@ -1,10 +1,20 @@
+# Define a function that returns True if number of "cat" matches "dog"
 def cat_dog(str):
+
+    # Initialize cat and dog counts
     cat_count = 0
     dog_count = 0
-    have_catdog = False
+
+    # Loop through the string length - 2, to prevent index overflow
     for i in range(len(str) - 2):
+
+        # Increase cat_count by 1 if "cat" is detected
         if str[i:i+3] == "cat":
             cat_count += 1
+
+        # Increase dog_count by 1 if "dog" is detected
         if str[i:i+3] == "dog":
             dog_count += 1
+
+    # Return True if cat_count == dog_count, False if otherwise
     return cat_count == dog_count
