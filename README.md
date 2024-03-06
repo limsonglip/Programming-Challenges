@@ -12,24 +12,25 @@ This repository serves to document and showcase my solutions for various program
 
 | Challenge          | Resource           | Type               | Difficulty         |
 |--------------------|--------------------|--------------------|--------------------|
-|<a href="Sleep In/README.md">Sleep In</a>|<a href="https://codingbat.com/python">CodingBat</a>|Warmup|Easy|
-|<a href="Monkey Trouble/README.md">Monkey Trouble</a>|<a href="https://codingbat.com/python">CodingBat</a>|Warmup|Easy|
-|<a href="Sum Double/README.md">Sum Double</a>|<a href="https://codingbat.com/python">CodingBat</a>|Warmup|Easy|
-|<a href="Difference 21/README.md">Difference 21</a>|<a href="https://codingbat.com/python">CodingBat</a>|Warmup|Easy|
-|<a href="Parrot Trouble/README.md">Parrot Trouble</a>|<a href="https://codingbat.com/python">CodingBat</a>|Warmup|Easy|
-|<a href="Makes 10/README.md">Makes 10</a>|<a href="https://codingbat.com/python">CodingBat</a>|Warmup|Easy|
-|<a href="Cigar Party/README.md">Cigar Party</a>|<a href="https://codingbat.com/python">CodingBat</a>|Logic|Easy|
-|<a href="Count Evens/README.md">Count Evens</a>|<a href="https://codingbat.com/python">CodingBat</a>|List|Medium|
-|<a href="Biggest Difference/README.md">Biggest Difference</a>|<a href="https://codingbat.com/python">CodingBat</a>|List|Medium|
-|<a href="Centered Average/README.md">Centered Average</a>|<a href="https://codingbat.com/python">CodingBat</a>|List|Medium|
-|<a href="Sum 13/README.md">Sum 13</a>|<a href="https://codingbat.com/python">CodingBat</a>|List|Medium|
-|<a href="Sum 67/README.md">Sum 67</a>|<a href="https://codingbat.com/python">CodingBat</a>|List|Medium|
-|<a href="Has 2 2/README.md">Has 2 2</a>|<a href="https://codingbat.com/python">CodingBat</a>|List|Medium|
-|<a href="Double Char/README.md">Double Char</a>|<a href="https://codingbat.com/python">CodingBat</a>|String|Medium|
-|<a href="Count Hi/README.md">Count Hi</a>|<a href="https://codingbat.com/python">CodingBat</a>|String|Medium|
-|<a href="Cat Dog/README.md">Cat Dog</a>|<a href="https://codingbat.com/python">CodingBat</a>|String|Medium|
-|<a href="Make Bricks/README.md">Make Bricks</a>|<a href="https://codingbat.com/python">CodingBat</a>|Logic|Medium|
-|<a href="Lone Sum/README.md">Lone Sum</a>|<a href="https://codingbat.com/python">CodingBat</a>|Logic|Medium|
+|<a href="Sleep In">Sleep In</a>|<a href="https://codingbat.com/python">CodingBat</a>|Warmup|Easy|
+|<a href="Monkey Trouble">Monkey Trouble</a>|<a href="https://codingbat.com/python">CodingBat</a>|Warmup|Easy|
+|<a href="Sum Double">Sum Double</a>|<a href="https://codingbat.com/python">CodingBat</a>|Warmup|Easy|
+|<a href="Difference 21">Difference 21</a>|<a href="https://codingbat.com/python">CodingBat</a>|Warmup|Easy|
+|<a href="Parrot Trouble">Parrot Trouble</a>|<a href="https://codingbat.com/python">CodingBat</a>|Warmup|Easy|
+|<a href="Makes 10">Makes 10</a>|<a href="https://codingbat.com/python">CodingBat</a>|Warmup|Easy|
+|<a href="Cigar Party">Cigar Party</a>|<a href="https://codingbat.com/python">CodingBat</a>|Logic|Easy|
+|<a href="Count Evens">Count Evens</a>|<a href="https://codingbat.com/python">CodingBat</a>|List|Medium|
+|<a href="Biggest Difference">Biggest Difference</a>|<a href="https://codingbat.com/python">CodingBat</a>|List|Medium|
+|<a href="Centered Average">Centered Average</a>|<a href="https://codingbat.com/python">CodingBat</a>|List|Medium|
+|<a href="Sum 13">Sum 13</a>|<a href="https://codingbat.com/python">CodingBat</a>|List|Medium|
+|<a href="Sum 67">Sum 67</a>|<a href="https://codingbat.com/python">CodingBat</a>|List|Medium|
+|<a href="Has 2 2">Has 2 2</a>|<a href="https://codingbat.com/python">CodingBat</a>|List|Medium|
+|<a href="Double Char">Double Char</a>|<a href="https://codingbat.com/python">CodingBat</a>|String|Medium|
+|<a href="Count Hi">Count Hi</a>|<a href="https://codingbat.com/python">CodingBat</a>|String|Medium|
+|<a href="Cat Dog">Cat Dog</a>|<a href="https://codingbat.com/python">CodingBat</a>|String|Medium|
+|<a href="Make Brick">Make Bricks</a>|<a href="https://codingbat.com/python">CodingBat</a>|Logic|Medium|
+|<a href="Lone Sum">Lone Sum</a>|<a href="https://codingbat.com/python">CodingBat</a>|Logic|Medium|
+|<a href="Lucky Sum">Lucky Sum</a>|<a href="https://codingbat.com/python">CodingBat</a>|Logic|Medium|
 
 ## Tools Used
 
