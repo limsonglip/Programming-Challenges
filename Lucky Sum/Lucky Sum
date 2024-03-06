@@ -1,0 +1,18 @@
+# Define a function that sums up a, b and c if none of them is 13. However if 1 of them is 13, ignore that input and the input/s to its right
+def lucky_sum(a, b, c):
+
+  # Return the sum of a, b and c if there is no 13 among them
+  if a != 13 and b != 13 and c != 13:
+    return a + b + c
+
+  # Return 0 if the first input is 13
+  elif a == 13:
+    return 0
+
+  # Return only a if b is 13
+  elif b == 13:
+    return a
+  
+  # Return sum of a and b if c is 13
+  elif c == 13:
+    return a + b
