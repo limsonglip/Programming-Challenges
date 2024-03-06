@@ -1,0 +1,15 @@
+# Define helper to automatically change input to 0 for 13, 14, and 17 to 19
+
+def fix_teen(n):
+  
+  # Return 0 if n is 13 or 14 or between 17 and 19 
+  if (13 <= n <= 14) or (17 <= n <= 19):
+    return 0
+
+  # Return n for all other numbers
+  else:
+    return n
+
+# Define function that will sum up all inputs
+def no_teen_sum(a, b, c):
+  return fix_teen(a) + fix_teen(b) + fix_teen(c)
