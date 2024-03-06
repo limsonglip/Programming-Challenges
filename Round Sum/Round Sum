@@ -1,0 +1,10 @@
+# Define helper to round numbers to 10
+def round10(num):
+    if (num % 10) >= 5:
+        return num + 10 - (num % 10)
+    elif  1 <= (num % 10) < 5:
+        return num - (num % 10)
+
+# Define function to calculated the sum of a, b and c, with each input rounded to 10
+def round_sum(a, b, c):
+    return round10(a) + round10(b) + round10(c)
