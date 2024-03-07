@@ -14,7 +14,7 @@ def make_chocolate(small, big, goal):
             return -1
 
     # If the weight of big bags of chocolate available is more than the goal
-    elif goal <= big*5:
+    elif goal < big*5:
 
         # Return number of small bags of chocolate required, if we have enough small bags of chocolate available
         if small >= goal % 5:
